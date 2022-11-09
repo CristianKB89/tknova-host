@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d88fe6f.css",
+    "main.js": "/static/js/main.02e885f3.js",
+    "static/js/787.dde62f8e.chunk.js": "/static/js/787.dde62f8e.chunk.js",
+    "static/media/Rectangle.svg": "/static/media/Rectangle.df7c2e7e3cb78189bc9e11e95e2ca7ad.svg",
+    "static/media/loginImg.png": "/static/media/loginImg.fc465798a9a58f0c3a78.png",
+    "static/media/Shiny_Happy_Outdoors.png": "/static/media/Shiny_Happy_Outdoors.82a13a661159e80838b4.png",
+    "static/media/Home_welcome_img.svg": "/static/media/Home_welcome_img.ba148987edaf651f0a615603b09f225e.svg",
+    "static/media/LogoIMG.png": "/static/media/LogoIMG.3968f548d98a9eb8a47d.png",
+    "index.html": "/index.html",
+    "static/media/BG-admin.svg": "/static/media/BG-admin.c5238e2f2bf0e55de852.svg",
+    "static/media/BG-SingIn.svg": "/static/media/BG-SingIn.3301302319d283554b55.svg",
+    "static/media/BG-home.svg": "/static/media/BG-home.2df394b76ce45ac047e7.svg",
+    "static/media/BG-Login.svg": "/static/media/BG-Login.5fe07138415cb5ce6347.svg",
+    "main.0d88fe6f.css.map": "/static/css/main.0d88fe6f.css.map",
+    "main.02e885f3.js.map": "/static/js/main.02e885f3.js.map",
+    "787.dde62f8e.chunk.js.map": "/static/js/787.dde62f8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d88fe6f.css",
+    "static/js/main.02e885f3.js"
+  ]
+}
